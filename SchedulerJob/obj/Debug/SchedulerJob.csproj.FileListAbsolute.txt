@@ -1,0 +1,8 @@
+c:\users\narender.g.singh\documents\visual studio 2015\Projects\SchedulerJob\SchedulerJob\bin\Debug\SchedulerJob.exe.config
+c:\users\narender.g.singh\documents\visual studio 2015\Projects\SchedulerJob\SchedulerJob\obj\Debug\SchedulerJob.csprojResolveAssemblyReference.cache
+c:\users\narender.g.singh\documents\visual studio 2015\Projects\SchedulerJob\SchedulerJob\bin\Debug\SchedulerJob.exe
+c:\users\narender.g.singh\documents\visual studio 2015\Projects\SchedulerJob\SchedulerJob\bin\Debug\SchedulerJob.pdb
+c:\users\narender.g.singh\documents\visual studio 2015\Projects\SchedulerJob\SchedulerJob\obj\Debug\SchedulerJob.exe
+c:\users\narender.g.singh\documents\visual studio 2015\Projects\SchedulerJob\SchedulerJob\obj\Debug\SchedulerJob.pdb
+C:\Users\narender.g.singh\documents\visual studio 2015\Projects\SchedulerJob\SchedulerJob\obj\Debug\SchedulerJob.Resource.resources
+C:\Users\narender.g.singh\documents\visual studio 2015\Projects\SchedulerJob\SchedulerJob\obj\Debug\SchedulerJob.csproj.GenerateResource.Cache
